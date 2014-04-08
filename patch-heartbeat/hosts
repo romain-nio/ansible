@@ -1,2 +1,3 @@
 [all-servers]
-dev.osca.ro
+server[1:10].domain.com
+
