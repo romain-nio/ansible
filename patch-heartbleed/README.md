@@ -5,4 +5,5 @@
 Test :
 
 $ -openssl version -a
-Must return a "buit on" date >= 2014-04-07
+
+- Must return a "buit on" date >= 2014-04-07
